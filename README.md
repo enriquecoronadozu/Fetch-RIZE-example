@@ -2,7 +2,7 @@
 
 ### Step 1.- Launch RIZE (inside RIZE folder):
 
-`npm run start`
+`npm start`
 
 ### Step 1.- Launch ROS bridge:
 
